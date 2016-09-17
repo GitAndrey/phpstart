@@ -18,6 +18,11 @@ require_once (ROOT.'/components/Db.php');
 
 
 
+
+
+
+
+
 //4. Вызов Router
 $router = new Router;
 $router->run();
