@@ -15,11 +15,7 @@ require_once (ROOT.'/components/Db.php');
 
 //3. Установка соединения с БД
 
-
-
-
-
-
+//3й комит
 
 
 
